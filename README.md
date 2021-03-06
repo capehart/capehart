@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi 👋, I'm AC
 
 <!--
 **capehart/capehart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi 👋, I'm AC</h1>
 <h3 align="center">A technical generalist or a general technologist</h3>
 
 - 🔭 I’m currently working on building [Pearl Certification](https://pearlcertification.com/). A mechanism to help homeowners understand the efficiency characteristics of their home.
