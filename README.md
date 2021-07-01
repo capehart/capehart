@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on building [Pearl Certification](https://pearlcertification.com/). A mechanism to help homeowners understand the efficiency characteristics of their home.
 
-- 🌱 I’m currently learning **Vue, but only in fits and starts as my javascript foundation is not very strong.**
+- 🌱 I’m currently learning **Flutter and Dart** as a way to enable some personal projects and in consideration of having us go that way for some professional applications. I had been starting to learn **Vue**, but the team wanted to go with *React*, so I put that on the shelf for now.
 <p align="left">
  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
