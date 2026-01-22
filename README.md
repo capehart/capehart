@@ -13,7 +13,7 @@
 * **R**esiliance
 * **E**nergy
 
-- 🌱 I’m currently playing with Terraform personally and professionally and trying to improve my knowledge of an utilization of containers.
+- 🌱 I’m currently playing with Terraform personally and professionally and trying to improve both my understanding and utilization of containers.
 <p align="left">
  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>  &nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> &nbsp;
